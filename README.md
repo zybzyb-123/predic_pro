@@ -8,4 +8,6 @@ eval.py:Indicator assessment.
 
 run.py:Baseline experiment run.
 
-Dataset:http://iotta.snia.org/traces/block-io
+**Dataset:**
+
+The FIU workloads are publicly available on the SNIA Website[http://iotta.snia.org/traces/block-io].
